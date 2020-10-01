@@ -1,0 +1,13 @@
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.AssemblyInfo.cs
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.exe
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.deps.json
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.runtimeconfig.json
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.runtimeconfig.dev.json
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.dll
+C:\Users\denni\source\repos\PolisOchTjuv\bin\Debug\netcoreapp3.1\PolisOchTjuv.pdb
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.dll
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.pdb
+C:\Users\denni\source\repos\PolisOchTjuv\obj\Debug\netcoreapp3.1\PolisOchTjuv.genruntimeconfig.cache
